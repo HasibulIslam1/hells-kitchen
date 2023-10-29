@@ -9,7 +9,7 @@ import React from 'react';
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <div>Hello world!</div>,
+    element: <div className='mx-10'>Hello world!</div>,
   },
 ]);
 
