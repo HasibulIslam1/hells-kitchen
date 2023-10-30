@@ -5,11 +5,16 @@ import {
 } from "react-router-dom";
 import './index.css'
 import React from 'react';
+import Home from './components/Home';
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <div className='mx-10'>Hello world!</div>,
+    element: <Home></Home>,
+    children: [
+
+      
+    ]
   },
 ]);
 
