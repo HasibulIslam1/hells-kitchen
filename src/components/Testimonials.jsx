@@ -2,6 +2,7 @@
 
 const Testimonials = () => {
     return (
+        // These are also same Cards used on ChefsData Tab
         <div>
             <div className="flex flex-row gap-4 justify-center py-8">
 

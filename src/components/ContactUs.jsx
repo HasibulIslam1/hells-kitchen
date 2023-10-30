@@ -2,6 +2,7 @@
 
 const ContactUs = () => {
     return (
+        // This Design also Added from daisyUI
         <div>
             <div className="hero min-h-screen" style={{ backgroundImage: 'url(/src/assets/Home/banner.jpg)' }}>
                     <div className="hero-overlay bg-opacity-60"></div>
