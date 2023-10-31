@@ -22,4 +22,12 @@ Task Descriptions:
 
 10. Translate & Scaling Effect Added in Testimonial & ChefDetails Section.
 
-11. Animation Added in Home, About Us & Service Section Buttons
+11. Animation Added in Home, About Us & Service Section's Buttons.
+
+<!-- Deployment -->
+
+1. File is created using ReactRouter & Vite.
+
+2. DaisyUI & TailwindCSS is Used for Designing
+
+3. Live Link: 
