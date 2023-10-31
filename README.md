@@ -31,3 +31,5 @@ Task Descriptions:
 2. DaisyUI & TailwindCSS is Used for Designing
 
 3. Live Link: 
+
+4. Live Link Added. But because of not having Hosting Storage, all the images can not be shown in the Live page.
