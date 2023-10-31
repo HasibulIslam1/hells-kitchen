@@ -5,7 +5,7 @@ const ChefDetails = () => {
     //    Chef Details Data Added In 3 Cards all from daisyUI
        <div className="flex flex-row gap-4 justify-center py-8">
 
-            <div className="card card-compact w-96 bg-base-100 shadow-xl">
+            <div className="card card-compact w-96 bg-base-100 shadow-xl hover:translate-y-12 hover:scale-125">
                 <figure><img src="/src/assets/ChefsPic/chef1 (1).jpg" alt="Shoes" /></figure>
                 <div className="card-body">
                     <h2 className="card-title">Chef Mario Rossi</h2>
@@ -17,7 +17,7 @@ const ChefDetails = () => {
                     </div>
                 </div>
             </div>
-            <div className="card card-compact w-96 bg-base-100 shadow-xl">
+            <div className="card card-compact w-96 bg-base-100 shadow-xl hover:translate-y-8 hover:scale-125">
                 <figure><img src="/src/assets/ChefsPic/chef2.webp" alt="Shoes" /></figure>
                 <div className="card-body">
                     <h2 className="card-title">Chef Anna Bianchi</h2>
@@ -29,7 +29,7 @@ const ChefDetails = () => {
                     </div>
                 </div>
             </div>
-            <div className="card card-compact w-96 bg-base-100 shadow-xl">
+            <div className="card card-compact w-96 bg-base-100 shadow-xl hover:translate-y-12 hover:scale-125">
                 <figure><img src="/src/assets/ChefsPic/chef3.jpg" alt="Shoes" /></figure>
                 <div className="card-body">
                     <h2 className="card-title">Chef Giuseppe Verdi</h2>

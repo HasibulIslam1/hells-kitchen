@@ -9,7 +9,7 @@ const Aboutus = () => {
                         <div className="max-w-md">
                             <h1 className="mb-5 text-5xl font-bold">About Us</h1>
                             <p className="mb-5">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore, nihil illo cumque laborum nam non ipsa obcaecati. Maiores quis at a unde ad, ratione laborum, delectus aspernatur ullam totam deserunt!</p>
-                            <button className="btn btn-primary">Order Now</button>
+                            <button className="btn btn-primary hover:animate-pulse">Order Now</button>
                         </div>
                     </div>
                 </div>

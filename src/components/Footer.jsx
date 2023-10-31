@@ -2,6 +2,7 @@
 
 const Footer = () => {
     return (
+        // This Footer Format is also Added from DaisyUi
         <div>
             <footer className="footer p-10 bg-slate-700 text-white">
   <nav>

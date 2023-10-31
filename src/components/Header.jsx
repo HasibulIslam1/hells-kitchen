@@ -35,7 +35,7 @@ const Header = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn">Free Coupons!!</a>
+                    <a className="btn animate-pulse">Free Coupons!!</a>
                 </div>
             </div>
             

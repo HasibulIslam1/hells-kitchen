@@ -3,8 +3,10 @@
 
 const Home = () => {
     return (
-        <div>
-            <header className="my-0">
+       
+    //    This Carousel is also product of DaisyUI
+       <div>
+            <header>
                 <div className="carousel w-full">
                     <div id="slide1" className="carousel-item relative w-full">
                         <img src="/src/assets/Home/01.jpg" className="w-full" />
@@ -36,13 +38,14 @@ const Home = () => {
                     </div>
                 </div>
             </header>
+    {/* This Slider is also from DaisyUI  */}
             <body>
                 <div className="hero min-h-screen" style={{ backgroundImage: 'url(/src/assets/Home/banner.jpg)' }}>
                     <div className="hero-overlay bg-opacity-60"></div>
                     <div className="hero-content text-center text-neutral-content">
                         <div className="max-w-md">
                             <h1 className="mb-5 text-5xl font-bold">Hell's Kitchen</h1>
-                            <p className="mb-5">We Provide Food From store to Door</p>
+                            <p className="mb-5">We Provide Food From Resort to Door</p>
                             <button className="btn btn-primary">Order Now</button>
                         </div>
                     </div>
